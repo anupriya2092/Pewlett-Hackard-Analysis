@@ -49,7 +49,7 @@ the company.
   
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  
-   ![emp_count_dept](./data/emp_count_dept.png) 
+   ![emp_count_dept](./Data/emp_count_dept.png) 
    
    As we can see from the table above the count of employees from each department who will be attending the mentorship programme.The number of employees from the
    finance department is fairly low . So we can find some way to get some of the current employees from finance department who are successful and experienced and who
